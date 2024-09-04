@@ -1,4 +1,4 @@
-# Practice for GitHub
+# Practice for gitHub
 
 - Create GitHub account
   - Click the account icon and choose `Setting`.
